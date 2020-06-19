@@ -6,5 +6,6 @@
   </head>
   <body>
     <p> hello word ! </p>
+    <a href="#">new link</a>
   </body>
 </html>
